@@ -1,4 +1,4 @@
 # invie
 Las guitarras más locas
 
-https://erickejohnston.github.io/invie-github/
+https://erickejohnston.github.io/plataforma-practica/
